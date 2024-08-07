@@ -1,0 +1,15 @@
+{
+    "name": "alexon/aramix",
+    "autoload": {
+        "psr-4": {
+            "Alexon\\Aramix\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alialgmass2",
+            "email": "ali.ehab@alexondev.net"
+        }
+    ],
+    "require": {}
+}
